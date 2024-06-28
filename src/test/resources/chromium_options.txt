@@ -1,0 +1,6 @@
+--mute-audio
+--incognito
+--disable-extensions
+--no-sandbox
+--disable-dev-shm-usage
+--disable-notifications
